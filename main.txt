@@ -1,1 +1,2 @@
 this is main text file created in master branch
+and this change is made in git /master branch 
