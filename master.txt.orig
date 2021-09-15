@@ -1,8 +1,11 @@
 Hii this is edited from master
+<<<<<<< HEAD
 hellowweee
+=======
 hello changes in sub-branch !
 new Changes made in private branch
 this is new change 
 new line added in public1
 nope
 new changes #2
+>>>>>>> public1
