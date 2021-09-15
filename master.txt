@@ -4,3 +4,4 @@ new Changes made in private branch
 this is new change 
 new line added in public1
 nope
+new changes #2
